@@ -1,0 +1,433 @@
+id,code,name,note,account_type,reconcile,chart_template_id:id
+account_template_11101000001,1.1.1.01.000001,CAIXA GERAL,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11101000002,1.1.1.01.000002,FUNDO FIXO DE CAIXA,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000001,1.1.1.02.000001,BANCO DO BRASIL,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000002,1.1.1.02.000002,CAIXA ECONÔMICA FEDERAL,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000003,1.1.1.02.000003,BANCO ITAU UNIBANCO - CC 07511-5,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000004,1.1.1.02.000004,BANCO BRADESCO,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000005,1.1.1.02.000005,BANCO SANTANDER,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000009,1.1.1.02.000009,BANCO SICOOB CONTA: 9.757.638-7 AGENCIA: 3194-1,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000011,1.1.1.02.000011,BANCO INTER,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000012,1.1.1.02.000012,BANCO ITAU C/C 16987-6,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000016,1.1.1.02.000016,BANCO XP S/A.,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000017,1.1.1.02.000017,BANCO SICOOB - CLOUDSAVE,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000018,1.1.1.02.000018,BANCO XP S/A - CLOUDSAVE,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11102000019,1.1.1.02.000019,CONTA TRANSITÓRIA DO BANCO,,asset_cash,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000001,1.1.1.03.000001,POUPANÇA NA CAIXA ECONOMICA FEDERAL,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000010,1.1.1.03.000010,BANCO ITAU APLIC AUT MAIS,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000027,1.1.1.03.000027,XP INVESTIMENTOS,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000029,1.1.1.03.000029,BANCO SANTANDER FUNDO PRIORITY DI,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000030,1.1.1.03.000030,BANCO ITAU FUNDO UNICLASS PREMIUM DI,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000033,1.1.1.03.000033,CAIXA ECONOMICA FEDERAL APLICAÇÃO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000034,1.1.1.03.000034,APLICACAO DEB FLU (DEB. FLUTUANTES),,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000035,1.1.1.03.000035,APLICACAO EM CRA FLU (CERTIFICADO RECEBIVEIS AGRONEGOCIO - FLUTUANTES),,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000036,1.1.1.03.000036,APLICACAO EM CRI (CERTIFICADO RECEBIVEIS IMOBILIARIOS),,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000038,1.1.1.03.000038,BANCO ITAU RENDA FIXA MIX CREDI,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000041,1.1.1.03.000041,BANCO ITAU APLICACAO ID SELIC,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000042,1.1.1.03.000042,XP INVESTIMENTOS (CLOUDSAVE),,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000043,1.1.1.03.000043,APLICACAO EM DEB OPA (OFERTA PUBLICA DE AQUISICAO),,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000044,1.1.1.03.000044,APLICACAO DEB FLU (DEB.FLUTUANTES) CLOUDSAVE,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000045,1.1.1.03.000045,APLICAÇÃO COMPROMISSADA DEB ORIG12,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000046,1.1.1.03.000046,APLICAÇÃO EM RDC SICOOB,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11103000047,1.1.1.03.000047,APLICAÇÃO COMPROMISSADA DEB VSCFU0,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11201000001,1.1.2.01.000001,CLIENTES,,asset_receivable,1,l10n_br_coa_saveincloud_chart_template
+account_template_11302000006,1.1.3.02.000006,SICOOB SUBSCRICAO/INTEGRALIZACAO (CLOUDSAVE),,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_11302000007,1.1.3.02.000007,SICOOB SUBSCRICAO/INTEGRALIZACAO,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_11304000001,1.1.3.04.000001,DIVIDENDOS A RECEBER,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_11305000001,1.1.3.05.000001,ADIANTAMENTOS A FORNECEDORES,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11305000005,1.1.3.05.000005,RASIS MEDICINA E SEGURANÇA DO TRABALHO,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000006,1.1.3.05.000006,ADIANTAMENTOS A FORNECEDORES (CLOUDSAVE),,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000007,1.1.3.05.000007,C A N PINTURAS RESIDENCIAIS E INDUSTRIAIS LTDA.- ME,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000008,1.1.3.05.000008,FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000009,1.1.3.05.000009,FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000010,1.1.3.05.000010,GOOGLE BRASIL INTERNET LTDA.,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000011,1.1.3.05.000011,LAMICRO.CO.UK,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000012,1.1.3.05.000012,A.M.G ROTISSERIE LTDA.,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000013,1.1.3.05.000013,FEDERAL EXPRESS CORPORATION,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000014,1.1.3.05.000014,ASCENTY DATA CENTERS TELECOM. S/A,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11305000015,1.1.3.05.000015,PONTOCOM & MINIMAL IND. E COM. DE MOVEIS LTDA.,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11306000001,1.1.3.06.000001,ADIANTAMENTO DE SALÁRIO,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11306000002,1.1.3.06.000002,ADIANTAMENTO DE 13º SALÁRIO,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11306000003,1.1.3.06.000003,ADIANTAMENTO DE FÉRIAS,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11306000004,1.1.3.06.000004,ADIANTAMENTO DE RESCISÃO,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11307000001,1.1.3.07.000001,EMPRÉSTIMO A EMPREGADOS,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_11308000001,1.1.3.08.000001,IPI A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000002,1.1.3.08.000002,ICMS A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000003,1.1.3.08.000003,IRRF A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000004,1.1.3.08.000004,IMPOSTO DE RENDA PAGO POR ESTIMATIVA,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000005,1.1.3.08.000005,CONTRIBUIÇÃO SOCIAL PAGA ESTIMATIVA,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000006,1.1.3.08.000006,TRIBUTOS PAGOS A MAIOR OU INDEVIDAMENTE,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000007,1.1.3.08.000007,CONTRIBUIÇÃO SOCIAL RETIDO A COMPENSAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000008,1.1.3.08.000008,COFINS RETIDO A COMPENSAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000009,1.1.3.08.000009,PIS RETIDO A COMPENSAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000010,1.1.3.08.000010,INSS A COMPENSAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000011,1.1.3.08.000011,BÔNUS DE ADIMPLÊNCIA FISCAL A COMPENSAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000012,1.1.3.08.000012,COFINS A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000013,1.1.3.08.000013,PIS A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000014,1.1.3.08.000014,COFINS A RECUPERAR - CRÉDITO PRESUMIDO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000015,1.1.3.08.000015,PIS RECUPERAR - CRÉDITO PRESUMIDO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000016,1.1.3.08.000016,ISS A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000017,1.1.3.08.000017,SIMPLES NACIONAL A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11308000018,1.1.3.08.000018,TRIBUTOS S/IMPORTACAO A RECUPERAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11309000001,1.1.3.09.000001,JUROS SOBRE O CAPITAL PRÓPRIO A RECEBER,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11311000001,1.1.3.11.000001,CONTA CORRENTE INCORPORACAO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11401000001,1.1.4.01.000001,APLICAÇÕES BANCO DO BRASIL,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11403000001,1.1.4.03.000001,VALOR NOMINAL,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11403000002,1.1.4.03.000002,(-) DESÁGIO A APROPRIAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000001,1.1.5.01.000001,MERCADORIAS PARA REVENDA,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000002,1.1.5.01.000002,MATÉRIA-PRIMA,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000003,1.1.5.01.000003,MATERIAL DE ACONDICIONAMENTO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000004,1.1.5.01.000004,OUTROS MATERIAIS DE CONSUMO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000005,1.1.5.01.000005,PRODUTOS ACABADOS,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000006,1.1.5.01.000006,PRODUTOS EM ELABORAÇÃO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000007,1.1.5.01.000007,AQUISIÇÃO DE AMOSTRA GRATIS E BRINDES,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11501000008,1.1.5.01.000008,IMPORTAÇÃO EM ANDAMENTO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11502000001,1.1.5.02.000001,ALMOXARIFADO DE MANUTENÇÃO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11502000002,1.1.5.02.000002,ALMOXARIFADO ADMINISTRATIVO,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11601000001,1.1.6.01.000001,PRÊMIOS DE SEGUROS A APROPRIAR,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_11601000002,1.1.6.01.000002,ASSINATURAS E ANUIDADES,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12105000002,1.2.1.05.000002,MATERIAL EM COMODATO,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12204000001,1.2.2.04.000001,ADIANTAMENTO A SÓCIOS,,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12204000002,1.2.2.04.000002,ADIANTAMENTO A SOCIOS (CLOUDSAVE),,asset_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12205000001,1.2.2.05.000001,FUNDOS RAM CASH FIRF LP,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12205000002,1.2.2.05.000002,FUNDOS MAPFRE FIF RF RL,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12205000003,1.2.2.05.000003,FUNDOS RAM CASH FIRF LP (CLOUDSAVE),,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12205000004,1.2.2.05.000004,FUNDOS MAPFRE FIF RF RL (CLOUDSAVE),,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12301000001,1.2.3.01.000001,CONTROLADA A - VALOR PATRIMONIAL,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12301000002,1.2.3.01.000002,CONTROLADA A - ÁGIO AQUISIÇÃO,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12301000003,1.2.3.01.000003,(-) CONTROLADA A - AMORTIZAÇÃO DO ÁGIL,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12301000004,1.2.3.01.000004,(-) CONTROLADA A - DESÁGIO NA AQUISIÇÃO,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12301000005,1.2.3.01.000005,CONTROLADA A - AMORTIZAÇÃO DO DESÁGIO,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12304000001,1.2.3.04.000001,FINOR,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12304000002,1.2.3.04.000002,FINAM,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12306000001,1.2.3.06.000001,OBJETOS DE ARTE,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12306000002,1.2.3.06.000002,CAUÇÕES PERMANENTES,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12307000001,1.2.3.07.000001,(-) CONTROLADAS E COLIGADAS EQUI. PATRIM,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12307000002,1.2.3.07.000002,(-) CONTROLADAS COLIGADAS CUSTO CORRIGID,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12307000003,1.2.3.07.000003,(-) OUTRAS PARTICIPAÇÕES SOCIETÁRIAS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12307000004,1.2.3.07.000004,(-) PARTICIPAÇÕES POR INCENTIVOS FISCAIS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12307000005,1.2.3.07.000005,(-) IMÓVEIS NÃO DESTINADOS A USO,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12307000006,1.2.3.07.000006,(-) OUTROS INVESTIMENTOS PERMANENTES,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12401000001,1.2.4.01.000001,TERRENOS,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12401000002,1.2.4.01.000002,CONSTRUÇÕES,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12401000003,1.2.4.01.000003,EDIFÍCIOS,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12402000001,1.2.4.02.000001,MÓVEIS E UTENSÍLIOS,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12403000001,1.2.4.03.000001,COMPUTADORES E PERIFÉRICOS,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12403000002,1.2.4.03.000002,"FERRAMENTAS, PEÇAS E ACESSÓRIOS",,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12403000003,1.2.4.03.000003,BENS CEDIDOS EM COMODATO,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12403000004,1.2.4.03.000004,MÁQUINAS E EQUIPAMENTOS,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12404000001,1.2.4.04.000001,VEÍCULOS,,asset_fixed,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000001,1.2.4.07.000001,(-) DEPRECIAÇÕES DE EDIFÍCIOS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000002,1.2.4.07.000002,(-) DEPRECIAÇÕES DE MÓVEIS E UTENSÍLIOS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000003,1.2.4.07.000003,"(-) DEPRECIAÇÕES DE MÁQUINAS, EQUIP. FER",,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000004,1.2.4.07.000004,(-) DEPRECIAÇÕES DE VEÍCULOS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000005,1.2.4.07.000005,(-) EXAUSTÕES E DEPREC. DE REC. NATURAIS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000006,1.2.4.07.000006,"(-) AMORTIZAÇÃO DE MARCAS, DIR. PATENTES",,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_12407000007,1.2.4.07.000007,(-) DEPRECIAÇÕES DE COMPUTADORES E PERIFÉRICOS,,asset_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21101000001,2.1.1.01.000001,EMPRÉSTIMO BANCO BRASIL,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21101000008,2.1.1.01.000008,BANCO ITAU EMPRESTIMO USO AUTOMATICO - 16987-6,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21101000009,2.1.1.01.000009,EMPRESTIMO BANCO SICOOB,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21101000010,2.1.1.01.000010,EMPRESTIMO BANCO ITAU (USO AUTOMATICO CX AVAL),,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21103000001,2.1.1.03.000001,FINANCIAMENTO BANCO FINASA,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21301000001,2.1.3.01.000001,FORNECEDORES,,liability_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_21401000001,2.1.4.01.000001,IPI A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000002,2.1.4.01.000002,ICMS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000003,2.1.4.01.000003,ISS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000004,2.1.4.01.000004,PROVISÃO PARA IMPOSTO DE RENDA,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000005,2.1.4.01.000005,PROVISÃO P/ CONTRIBUIÇÃO SOCIAL S/ LUCRO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000006,2.1.4.01.000006,IMPOSTO DE RENDA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000007,2.1.4.01.000007,CONTRIBUIÇÃO SOCIAL A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000008,2.1.4.01.000008,IRRF A RECOLHER CÓD. 0561,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000009,2.1.4.01.000009,PIS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000010,2.1.4.01.000010,COFINS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000011,2.1.4.01.000011,PROVISÃO PARA IOF,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000012,2.1.4.01.000012,CRF A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000013,2.1.4.01.000013,ISS RETIDO A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000014,2.1.4.01.000014,INSS RETIDO A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000015,2.1.4.01.000015,SIMPLES NACIONAL A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000016,2.1.4.01.000016,SUBSTITUIÇÃO TRIBUTÁRIA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000017,2.1.4.01.000017,REFIS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000018,2.1.4.01.000018,FIA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000019,2.1.4.01.000019,PIS RETIDO A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000020,2.1.4.01.000020,COFINS RETIDO A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000021,2.1.4.01.000021,CONTRIBUIÇÃO SOCIAL RETIDA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000022,2.1.4.01.000022,FUNRURAL A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000023,2.1.4.01.000023,CONTRIBUIÇÃO SINDICAL A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000024,2.1.4.01.000024,INSS RECEITA BRUTA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000025,2.1.4.01.000025,ICMS ANTECIPADO A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000026,2.1.4.01.000026,ICMS ANTECIPAÇÃO TOTAL ST A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000027,2.1.4.01.000027,CONTRIBUIÇÃO ASSISTENCIAL A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000028,2.1.4.01.000028,IRRF A RECOLHER CÓD. 1708,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000029,2.1.4.01.000029,IRRF A RECOLHER CÓD. 0561 (CLOUDSAVE),,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000030,2.1.4.01.000030,SIMPLES NACIONAL A RECOLHER (CLOUDSAVE),,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21401000031,2.1.4.01.000031,CONTRIBUIÇÃO CONFEDERATIVA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000001,2.1.4.02.000001,PARCELAMENTO ICMS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000011,2.1.4.02.000011,(-) JUROS A APROPRIAR S/ PARCELAMENTO DE ICMS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000012,2.1.4.02.000012,(-) MULTA A APROPRIAR S/ PARCELAMENTO ICMS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000013,2.1.4.02.000013,(-) DESPESAS C/ HONORARIOS ADVOCATICIOS A APROPRIAR S/ PARCELAMENTO DO ICMS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000021,2.1.4.02.000021,(-) JUROS A APROPRIAR S/ PARCELAMENTO DO SIMPLES NACIONAL,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000022,2.1.4.02.000022,(-) MULTA A APROPRIAR S/ PARCELAMENTO DO SIMPLES NACIONAL,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000023,2.1.4.02.000023,(-) ENCARGOS LEGAIS A APROPRIAR S/ PARCELAMENTO DO SIMPLES NACIONAL,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000031,2.1.4.02.000031,(-) JUROS A APROPRIAR S/ PARCELAMENTO DOS TRIBUTOS FEDERAIS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000032,2.1.4.02.000032,(-) MULTA A APROPRIAR S/ PARCELAMENTO DOS TRIBUTOS FEDERAIS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21402000033,2.1.4.02.000033,(-) ENCARGOS LEGAIS A APROPRIAR S/ PARCELAMENTO DOS TRIBUTOS FEDERAIS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21501000001,2.1.5.01.000001,SALÁRIOS E ORDENADOS A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21501000002,2.1.5.01.000002,PRÓ-LABORE A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21501000003,2.1.5.01.000003,GRATIFICAÇÕES A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21501000004,2.1.5.01.000004,SALÁRIOS E ORDENADOS A PAGAR (CLOUDSAVE),,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21502000001,2.1.5.02.000001,INSS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21502000002,2.1.5.02.000002,FGTS A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21502000003,2.1.5.02.000003,INSS A RECOLHER (CLOUDSAVE),,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21502000004,2.1.5.02.000004,PIS S/ FOLHA A RECOLHER,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000001,2.1.5.03.000001,PROVISÕES PARA FÉRIAS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000002,2.1.5.03.000002,PROVISÕES PARA 13º SALÁRIO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000003,2.1.5.03.000003,INSS SOBRE PROVISÕES PARA FÉRIAS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000004,2.1.5.03.000004,INSS SOBRE PROVISÕES PARA 13º SALÁRIO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000005,2.1.5.03.000005,FGTS SOBRE PROVISÕES PARA FÉRIAS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000006,2.1.5.03.000006,FGTS SOBRE PROVISÕES PARA 13º SALÁRIO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000007,2.1.5.03.000007,PIS SOBRE PROVISÕES PARA FÉRIAS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21503000008,2.1.5.03.000008,PIS SOBRE PROVISÕES PARA 13º SALÁRIO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21601000001,2.1.6.01.000001,ADIANTAMENTO CLIENTE ESTANGEIRO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21601000002,2.1.6.01.000002,ADIANTAMENTO DE CLIENTES,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21601000004,2.1.6.01.000004,SCLOUD HOSPEDAGEM NA NUVEM LTDA,,asset_current,1,l10n_br_coa_saveincloud_chart_template
+account_template_21601000005,2.1.6.01.000005,WISER - UP WORK BUSINESS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21602000001,2.1.6.02.000001,HONORÁRIOS CONTÁBEIS,,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21602000005,2.1.6.02.000005,HONORÁRIOS CONTÁBEIS (CLOUDSAVE),,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21602000006,2.1.6.02.000006,OUTRAS CONTAS A PAGAR,,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21602000007,2.1.6.02.000007,CARTAO DE CREDITO SICOOB,,liability_credit_card,0,l10n_br_coa_saveincloud_chart_template
+account_template_21602000017,2.1.6.02.000017,CARTAO DE CREDITO SICOOB (CLOUDSAVE) A PAGAR,,liability_credit_card,0,l10n_br_coa_saveincloud_chart_template
+account_template_21602000018,2.1.6.02.000018,CARTAO DE CREDITO ITAU,,liability_credit_card,0,l10n_br_coa_saveincloud_chart_template
+account_template_21602000019,2.1.6.02.000019,BANCO SICOOB (CLOUDSAVE),,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21602000020,2.1.6.02.000020,CREDITO DO TRABALHADOR FGTS A PAGAR,,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21602000021,2.1.6.02.000021,FABIO DE CARVALHO VIEIRA,,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21602000022,2.1.6.02.000022,PONTOCOM & MINIMAL IND. E COM. DE MOVEIS LTDA.,,liability_payable,1,l10n_br_coa_saveincloud_chart_template
+account_template_21604000002,2.1.6.04.000002,BANCO ITAU UNIBANCO A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21607000001,2.1.6.07.000001,CONTA CORRENTE INCORPORACAO,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21701000001,2.1.7.01.000001,DIVIDENDOS PROPOSTOS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21701000002,2.1.7.01.000002,DIVIDENDOS A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21702000001,2.1.7.02.000001,PARTICIPAÇÕES PROPOSTA A ADMINISTRADORES,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21702000002,2.1.7.02.000002,PARTICIPAÇÕES PROPOSTA A EMPREGADOS,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21702000003,2.1.7.02.000003,PARTICIPAÇÕES A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_21703000001,2.1.7.03.000001,JUROS SOBRE CAPITAL PRÓPRIO A PAGAR,,liability_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_22101000001,2.2.1.01.000001,EMPRÉSTIMO,,liability_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_22103000001,2.2.1.03.000001,BANCO FINASA S/A,,liability_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_22108000001,2.2.1.08.000001,PROVISÃO PARA IR SOBRE LUCROS DIFERIDOS,,liability_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_22108000002,2.2.1.08.000002,CRÉDITOS DA CSLL SOBRE BENS DO ATIVO,,liability_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_22109000002,2.2.1.09.000002,MATERIAL EM COMODATO,,liability_non_current,0,l10n_br_coa_saveincloud_chart_template
+account_template_23101000001,2.3.1.01.000001,CAPITAL SOCIAL,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23101000002,2.3.1.01.000002,CAPITAL SOCIAL (CLOUDSAVE),,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23102000001,2.3.1.02.000001,CAPITAL A INTEGRALIZAR,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23201000001,2.3.2.01.000001,ÁGIO NA EMISSÃO DE AÇÕES,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23201000002,2.3.2.01.000002,DOAÇÕES E SUBVENÇÕES PARA INVESTIMENTOS,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23201000003,2.3.2.01.000003,(-) AÇÕES/QUOTAS EM TESOURARIA,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23201000004,2.3.2.01.000004,CORREÇÃO MONETÁRIA DO CAP. INTEGRALIZADO,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23202000001,2.3.2.02.000001,REAVALIAÇÃO DE ATIVOS COLIGADAS,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23202000002,2.3.2.02.000002,REAVALIAÇÃO DE ATIVOS PRÓPRIOS,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23203000001,2.3.2.03.000001,RESERVA ESTATUTÁRIA,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23203000002,2.3.2.03.000002,RESERVA PARA CONTINGÊNCIAS,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23203000003,2.3.2.03.000003,RESERVA DE LUCROS A REALIZAR,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23203000005,2.3.2.03.000005,(-) AÇÕES/QUOTAS EM TESOURARIA,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23203000006,2.3.2.03.000006,RESERVA LEGAL,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000001,2.3.3.01.000001,LUCROS ACUMULADOS,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000002,2.3.3.01.000002,(-) PREJUÍZOS ACUMULADOS,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000003,2.3.3.01.000003,RESULTADO DO EXERCÍCIO EM CURSO,,equity_unaffected,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000004,2.3.3.01.000004,LUCRO DO EXERCÍCIO EM CURSO,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000005,2.3.3.01.000005,(-) PREJUÍZO DO EXERCÍCIO EM CURSO,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000006,2.3.3.01.000006,AJUSTES CREDORES DE EXERCICIOS ANTERIORES,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000007,2.3.3.01.000007,(-) AJUSTES DEVEDORES DE EXERCICIOS ANTERIORES,,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_23301000008,2.3.3.01.000008,LUCROS ACUMULADOS (CLOUDSAVE),,equity,0,l10n_br_coa_saveincloud_chart_template
+account_template_31101000001,3.1.1.01.000001,MATÉRIA-PRIMA,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31101000002,3.1.1.01.000002,INDUSTRIALIZAÇÃO,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000001,3.1.1.02.000001,SALÁRIOS E ORDENADOS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000002,3.1.1.02.000002,PRÓ-LABORE,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000003,3.1.1.02.000003,PRÊMIOS DE GRATIFICAÇÕES,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000004,3.1.1.02.000004,13º SALÁRIO,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000005,3.1.1.02.000005,FÉRIAS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000006,3.1.1.02.000006,INSS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000007,3.1.1.02.000007,FGTS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000008,3.1.1.02.000008,INDENIZAÇÕES E AVISO PRÉVIO,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000009,3.1.1.02.000009,ASSISTÊNCIA MÉDICA E SOCIAL,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31102000010,3.1.1.02.000010,PIS S/ FOLHA,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31206000001,3.1.2.06.000001,DEPRECIAÇÃO,,expense_depreciation,0,l10n_br_coa_saveincloud_chart_template
+account_template_31207000001,3.1.2.07.000001,COMBUSTÍVEL,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31401000001,3.1.4.01.000001,ICMS ANTECIPAÇÃO PARCIAL,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31401000002,3.1.4.01.000002,ICMS ANTECIPAÇÃO TOTAL - ST,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31401000003,3.1.4.01.000003,BONIFICAÇÃO,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31401000004,3.1.4.01.000004,ICMS DIFERENCIAL DE ALÍQUOTA,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31501000001,3.1.5.01.000001,CUSTOS DOS PRODUTOS VENDIDOS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31601000001,3.1.6.01.000001,CUSTOS DOS SERVIÇOS PRESTADOS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31601000002,3.1.6.01.000002,LOCACAO DE ESPACO DATA CENTERS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_31701000001,3.1.7.01.000001,CUSTOS DAS MERCADORIAS VENDIDAS,,expense_direct_cost,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000001,3.2.1.01.000001,SALÁRIOS E ORDENADOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000002,3.2.1.01.000002,PRÓ-LABORE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000003,3.2.1.01.000003,PRÊMIOS E GRATIFICAÇÕES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000004,3.2.1.01.000004,13º SALÁRIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000005,3.2.1.01.000005,FÉRIAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000006,3.2.1.01.000006,INSS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000007,3.2.1.01.000007,FGTS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000008,3.2.1.01.000008,INDENIZAÇÕES E AVISO PRÉVIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000009,3.2.1.01.000009,ASSISTÊNCIA MÉDICA E SOCIAL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000010,3.2.1.01.000010,PIS S/ FOLHA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000011,3.2.1.01.000011,SEGUROS CCT,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000012,3.2.1.01.000012,AUXILIO/VALE ALIMENTACAO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000013,3.2.1.01.000013,AUXILIO/VALE TRANSPORTE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32101000014,3.2.1.01.000014,AUXILIO/OUTROS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32102000001,3.2.1.02.000001,COMISSÕES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32103000002,3.2.1.03.000002,PROPAGANDA E PUBLICIDADE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32104000001,3.2.1.04.000001,FRETES E CARRETOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32104000002,3.2.1.04.000002,MANUTENÇÃO DE VEÍCULOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32104000003,3.2.1.04.000003,CORREIOS E TELEGRAFOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32105000001,3.2.1.05.000001,VIAGENS TERRESTRES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32105000002,3.2.1.05.000002,DESPESAS DE VIAGENS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32105000003,3.2.1.05.000003,HOSPEDAGEM,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32105000004,3.2.1.05.000004,DESPESAS DE REFEICOES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000001,3.2.1.06.000001,ALUGUÉIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000002,3.2.1.06.000002,MANUTENÇÃO E REPARO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000003,3.2.1.06.000003,TELEFONE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000004,3.2.1.06.000004,DESPESAS POSTAIS E TELEGRÁFICAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000005,3.2.1.06.000005,DEPRECIAÇÕES E AMORTIZAÇÕES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000006,3.2.1.06.000006,SERVIÇOS PRESTADOS POR TERCEIROS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000007,3.2.1.06.000007,SEGUROS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000008,3.2.1.06.000008,VALE TRANSPORTE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000009,3.2.1.06.000009,VALE ALIMENTAÇÃO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000010,3.2.1.06.000010,DESPESAS DE CONDOMINIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32106000012,3.2.1.06.000012,"MANUTENÇÃO, CONSERVAÇÃO E REPAROS",,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32107000001,3.2.1.07.000001,CRÉDITOS VENCIDOS E NÃO LIQUIDADOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000001,3.2.2.01.000001,SALÁRIOS E ORDENADOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000002,3.2.2.01.000002,PRÓ-LABORE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000003,3.2.2.01.000003,PRÊMIOS E GRATIFICAÇÕES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000004,3.2.2.01.000004,13º SALÁRIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000005,3.2.2.01.000005,FÉRIAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000006,3.2.2.01.000006,INSS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000007,3.2.2.01.000007,FGTS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000008,3.2.2.01.000008,INDENIZAÇÕES E AVISO PRÉVIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000009,3.2.2.01.000009,ASSISTÊNCIA MÉDICA E SOCIAL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000010,3.2.2.01.000010,VALE TRANSPORTE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000011,3.2.2.01.000011,PIS S/ FOLHA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32201000012,3.2.2.01.000012,DESPESAS COM ALIMENTAÇÃO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32202000001,3.2.2.02.000001,ALUGUÉIS DE IMÓVEIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32202000002,3.2.2.02.000002,ALUGUÉIS DE MÁQUINAS E EQUIPAMENTOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32202000003,3.2.2.02.000003,ARRENDAMENTO DE IMÓVEIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32202000004,3.2.2.02.000004,ARRENDAMENTO MERCANTIL (LEASING),,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000001,3.2.2.03.000001,PIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000002,3.2.2.03.000002,COFINS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000003,3.2.2.03.000003,IPTU,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000004,3.2.2.03.000004,IPVA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000005,3.2.2.03.000005,TAXAS DIVERSAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000006,3.2.2.03.000006,CPMF,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32203000007,3.2.2.03.000007,MULTAS DE MORA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000001,3.2.2.04.000001,ENERGIA ELÉTRICA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000002,3.2.2.04.000002,ÁGUA E ESGOTO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000003,3.2.2.04.000003,TELEFONE,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000004,3.2.2.04.000004,DESPESAS POSTAIS E TELEGRÁFICAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000005,3.2.2.04.000005,SEGUROS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000006,3.2.2.04.000006,MATERIAL DE ESCRITÓRIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000007,3.2.2.04.000007,MATERIAL DE HIGIENE E LIMPEZA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000008,3.2.2.04.000008,ASSISTÊNCIA CONTÁBIL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000009,3.2.2.04.000009,SERVIÇOS PRESTADOS POR TERCEIROS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000010,3.2.2.04.000010,DEPRECIAÇÕES E AMORTIZAÇÕES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000011,3.2.2.04.000011,REPRODUÇÕES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000012,3.2.2.04.000012,DESPESAS LEGAIS E JUDICIAIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000013,3.2.2.04.000013,DESPESAS DIVERSAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000014,3.2.2.04.000014,MULTA DE TRÂNSITO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000015,3.2.2.04.000015,COMBUSTÍVEIS E LUBRIFICANTES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000016,3.2.2.04.000016,MATERIAIS DE USO OU CONSUMO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000017,3.2.2.04.000017,INTERNET,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000019,3.2.2.04.000019,ASSESSORIA CONTÁBIL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000022,3.2.2.04.000022,OUTRAS DESPESAS GERAIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000024,3.2.2.04.000024,SERVICOS/MATERIAIS DE TECNOLOGIA DA INFORMACAO E COMUNICACAO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000025,3.2.2.04.000025,BENS DE PEQUENO VALOR,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000026,3.2.2.04.000026,ALUGUEL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000027,3.2.2.04.000027,MATERIAIS DE CONSUMO (BONIFICAÇÃO),,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000028,3.2.2.04.000028,DOAÇÕES INCENTIVADAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000029,3.2.2.04.000029,DESPESAS COM IMPORTACAO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32204000030,3.2.2.04.000030,OUTRAS DESPESAS COM SERVICOS DE COMUNICACAO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000001,3.2.2.05.000001,JUROS PASSIVOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000002,3.2.2.05.000002,VARIAÇÕES MONETÁRIAS PASSIVAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000003,3.2.2.05.000003,VARIAÇÕES CAMBIAIS PASSIVAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000004,3.2.2.05.000004,DESCONTOS FINANCEIROS CONCEDIDOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000005,3.2.2.05.000005,JUROS DE MORA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000006,3.2.2.05.000006,JUROS SOBRE CAPITAL PRÓPRIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000007,3.2.2.05.000007,JUROS E COMISSÕES BANCÁRIAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000008,3.2.2.05.000008,JUROS SOBRE EMPRÉSTIMOS E FINANCIAMENTOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000009,3.2.2.05.000009,MULTAS PASSIVAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000010,3.2.2.05.000010,MULTAS DE MORA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000011,3.2.2.05.000011,TARIFA BANCÁRIA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000012,3.2.2.05.000012,JUROS EMPRESTIMO / FINANCIAMENTO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000013,3.2.2.05.000013,IOF,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000014,3.2.2.05.000014,IRRF APLICAÇÃO FINANCEIRA,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32205000015,3.2.2.05.000015,PERDAS FINANCEIRAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32206000001,3.2.2.06.000001,PROVISÕES P/ PERDAS E A JUSTES DE ATIVOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32206000002,3.2.2.06.000002,EQUIVALÊNCIA  PATRIMONIAL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32206000003,3.2.2.06.000003,AMORTIZAÇÃO DE ÁGIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32207000001,3.2.2.07.000001,DESPESAS INDEDUTIVEIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_32207000002,3.2.2.07.000002,DEPRECIACOES INDEDUTIVEIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33101000001,3.3.1.01.000001,PERDAS NA ALIENAÇÃO EM PAR. EM COLIGADAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33102000001,3.3.1.02.000001,PERDAS NA ALIENAÇÃO DE IMÓVEIS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33102000002,3.3.1.02.000002,PERDAS NA ALIENAÇÃO DE MÓVEIS E UTENS.,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33102000003,3.3.1.02.000003,PERDAS NA ALIENAÇÃO DE MAQ. EQUIPAMENTOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33102000004,3.3.1.02.000004,PERDAS NA ALIENAÇÃO DE VEÍCULOS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33103000001,3.3.1.03.000001,PERDAS EM SINISTROS COM IMOBILIZADO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33104000001,3.3.1.04.000001,BAIXAS DE INVESTIMENTOS PERMANENTES,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33104000002,3.3.1.04.000002,BAIXAS DE IMOBILIZADO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33104000003,3.3.1.04.000003,BAIXAS DE ATIVO DIFERIDO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33105000001,3.3.1.05.000001,CONTROLADAS E COLIGADAS - EQUIV. PATRIM.,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33105000002,3.3.1.05.000002,CONTROLAS E COLIGADAS - CUSTO CORRIGIDO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33105000003,3.3.1.05.000003,OUTRAS PARTICIPAÇÕES SOCIETÁRIAS,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33106000001,3.3.1.06.000001,PERDAS POR FALTA NO INVENTÁRIO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33106000002,3.3.1.06.000002,PERDA DE CRÉDITO DE ICMS S/ IMOBILIZADO,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33107000001,3.3.1.07.000001,PROVISAO DE IRPJ,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33107000002,3.3.1.07.000002,(-) PROVISAO IRPJ INCENTIVOS FISCAIS - PAT,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_33107000003,3.3.1.07.000003,PROVISAO CSLL,,expense,0,l10n_br_coa_saveincloud_chart_template
+account_template_41101000001,4.1.1.01.000001,VENDA DE PRODUTOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41101000002,4.1.1.01.000002,VENDA DE PRODUTOS NO MERCADO EXTERNO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41101000003,4.1.1.01.000003,VENDA DE MERCADORIAS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41101000004,4.1.1.01.000004,VENDA DE MERCADORIAS NO MERCADO EXTERNO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41102000001,4.1.1.02.000001,SERVIÇOS PRESTADOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41102000002,4.1.1.02.000002,SERVIÇOS PRESTADO MERCADO EXTERNO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000001,4.1.2.01.000001,(-) DEVOLUÇÃO DE VENDA DE PRODUTOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000002,4.1.2.01.000002,(-) DEV. VENDA DE PRODUTOS MERCADO EXT.,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000003,4.1.2.01.000003,(-) DEVOLUÇÃO DE VENDA DE MERCADORIAS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000004,4.1.2.01.000004,(-) DEV. VENDA DE MERCADORIAS MERC. EXT,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000005,4.1.2.01.000005,(-) ANULAÇÃO DE VALOR RELATIVO À VENDA DE ENERGIA ELÉTRICA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000006,4.1.2.01.000006,(-) ANULAÇÃO DE VALOR RELATIVO À PREST. SERV. DE COMUNICAÇÃO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41201000007,4.1.2.01.000007,(-) ANULAÇÃO DE VALOR RELATIVO À PREST. SERV. DE TRANSPORTE,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41202000001,4.1.2.02.000001,(-) DESCONTO VENDA DE PRODUTOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41202000002,4.1.2.02.000002,(-) DESCONTO VENDA DE PRODUTO MERC. EXT,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41202000003,4.1.2.02.000003,(-) DESCONTO VENDA DE MERCADORIA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41202000004,4.1.2.02.000004,(-) DESC. VENDA DE MERCADORIAS MERC. EXT,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000001,4.1.2.03.000001,(-) IPI,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000002,4.1.2.03.000002,(-) ICMS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000003,4.1.2.03.000003,(-) ISS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000004,4.1.2.03.000004,(-) COFINS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000005,4.1.2.03.000005,(-) PIS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000006,4.1.2.03.000006,(-) CONTRIBUIÇÃO SOCIAL,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000007,4.1.2.03.000007,(-) IMPOSTO DE RENDA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000008,4.1.2.03.000008,(-) SIMPLES NACIONAL,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000009,4.1.2.03.000009,(-) SUBSTITUIÇÃO TRIBUTÁRIA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000010,4.1.2.03.000010,(-) REFIS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000011,4.1.2.03.000011,(-) FIA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41203000012,4.1.2.03.000012,(-) INSS RECEITA BRUTA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000001,4.1.3.01.000001,JUROS DE APLICAÇÕES,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000002,4.1.3.01.000002,JUROS ATIVOS,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000003,4.1.3.01.000003,DESCONTOS FINANCEIROS OBTIDOS,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000004,4.1.3.01.000004,JUROS SOBRE O CAPITAL PRÓPRIO,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000005,4.1.3.01.000005,MULTAS ATIVAS,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000007,4.1.3.01.000007,PIS S/REC. FINANCEIRA,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41301000008,4.1.3.01.000008,COFINS S/REC. FINANCEIRA,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_41302000001,4.1.3.02.000001,VARIAÇÕES MONETÁRIAS ATIVAS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41302000002,4.1.3.02.000002,VARIAÇÕES CAMBIAIS PASSIVAS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41501000001,4.1.5.01.000001,ALUGUÉIS E ARRENDAMENTOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41501000002,4.1.5.01.000002,VENDAS ACESSÓRIAS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41501000003,4.1.5.01.000003,RECEITA DE EQUIVALÊNCIA PATRIMONIAL,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41501000004,4.1.5.01.000004,DIVIDENDOS E LUCROS RECEBIDOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41501000005,4.1.5.01.000005,AMORTIZAÇÃO DE DESÁGIO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_41501000006,4.1.5.01.000006,OUTRAS RECEITAS,,income_other,0,l10n_br_coa_saveincloud_chart_template
+account_template_42101000001,4.2.1.01.000001,LUCROS NA ALIENAÇÃO DE PART. EM COLIGADA,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_42102000001,4.2.1.02.000001,LUCROS NA ALIENAÇÃO DE IMÓVEIS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_42102000002,4.2.1.02.000002,LUCROS NA ALIENAÇÃO DE MÓVEIS E UTENS.,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_42102000003,4.2.1.02.000003,LUCROS NA ALIEN. DE MÁQ. EQUIP. FERRAMEN,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_42102000004,4.2.1.02.000004,LUCROS NA ALIENAÇÃO DE VEÍCULOS,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_42103000002,4.2.1.03.000002,SINISTROS COM IMOBILIZADO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_51101000001,5.1.1.01.000001,RESULTADO DO EXERCÍCIO,,income,0,l10n_br_coa_saveincloud_chart_template
+account_template_51101000002,5.1.1.01.000002,GANHOS/PERDAS NA ALIENAÇÃO DE IMOB.,,income,0,l10n_br_coa_saveincloud_chart_template
